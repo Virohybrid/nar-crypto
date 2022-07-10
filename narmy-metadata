@@ -1,0 +1,9 @@
+{
+  "name": "NAR Mint", 
+  "symbol": "NARMY",
+  "uri": "TOKEN_URI",
+  "sellerFeeBasisPoints": 0,
+  "creators": NAROverseers,
+  "collection": null,
+  "uses": null
+}
