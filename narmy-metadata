@@ -1,7 +1,7 @@
 {
   "name": "NAR Mint", 
   "symbol": "NARMY",
-  "uri": "TOKEN_URI",
+  "uri": "https://raw.githubusercontent.com/Virohybrid/nar-crypto/main/token%20uri",
   "sellerFeeBasisPoints": 0,
   "creators": NAROverseers,
   "collection": null,
